@@ -10,7 +10,7 @@ Sum=12, Diff=8, Product=20, Quotient=5
 Input 2:
 7 3
 Output 2:
-Sum=10, Diff=4, Product=21, Quotient=2.
+Sum=10, Diff=4, Product=21, Quotient=2
 
 */
 

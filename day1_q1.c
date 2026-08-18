@@ -10,7 +10,7 @@ Sum = 7
 Input 2:
 -1 20
 Output 2:
-Sum = 19.
+Sum = 19
 
 */
 
