@@ -24,7 +24,6 @@ Special character
 
 */
 
-
 #include<stdio.h>
 
 int main()
