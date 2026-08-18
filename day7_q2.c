@@ -14,7 +14,6 @@ Consonant
 
 */
 
-
 #include<stdio.h>
 
 int main() {

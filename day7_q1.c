@@ -19,7 +19,6 @@ Leap year
 
 */
 
-
 #include<stdio.h>
 
 int main() {
