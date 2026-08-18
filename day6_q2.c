@@ -19,7 +19,6 @@ Positive
 
 */
 
-
 #include<stdio.h>
 
 int main() {
