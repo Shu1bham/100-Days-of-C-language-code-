@@ -14,7 +14,6 @@ Area=21, Perimeter=20
 
 */
 
-
 #include<stdio.h>
 
 int main()

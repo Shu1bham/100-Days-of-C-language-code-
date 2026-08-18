@@ -14,7 +14,6 @@ Area=28.27, Circumference=18.85
 
 */
 
-
 #include<stdio.h>
 
 int main()
