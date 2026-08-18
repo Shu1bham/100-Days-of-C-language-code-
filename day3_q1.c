@@ -14,7 +14,6 @@ Fahrenheit=212
 
 */
 
-
 #include<stdio.h>
 
 int main()
